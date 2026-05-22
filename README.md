@@ -6,7 +6,19 @@ An interactive sales dashboard built in Microsoft Excel analyzing coffee shop tr
 
 ## 📌 Project Overview
 
-This project analyzes retail sales data from a coffee shop chain to uncover trends in customer behavior, peak hours, top-selling products, and store-level performance. All analysis and visualization was done entirely in Microsoft Excel using Pivot Tables and Pivot Charts.
+The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop. All analysis and visualization was done entirely in Microsoft Excel using Pivot Tables and Pivot Charts.
+
+---
+
+## ❓ Business Questions Answered
+
+- How do sales vary by day of the week and hour of the day?
+- Are there any peak times for sales activity?
+- What is the total sales revenue for each month?
+- How do sales vary across different store locations?
+- What is the average price/order per person?
+- Which products are the best-selling in terms of quantity and revenue?
+- How do sales vary by product category and type?
 
 ---
 
@@ -60,8 +72,9 @@ This project analyzes retail sales data from a coffee shop chain to uncover tren
 ```
 Coffee-Shop-Sales/
 │
-├── CoffeeShopSales.xlsx    # Raw data + Pivot Tables + Dashboard
-├── Dashboard.png           # Screenshot of the final dashboard
+├── CoffeeShopSales.xlsx       # Raw data + Pivot Tables + Dashboard
+├── Dashboard.png              # Screenshot of the final dashboard
+├── Project_Report.pdf         # Full project report with objectives & analysis questions
 └── README.md
 ```
 
@@ -70,6 +83,12 @@ Coffee-Shop-Sales/
 ## 📸 Dashboard Preview
 
 ![Coffee Shop Sales Dashboard](Dashboard.png)
+
+---
+
+## 📄 Project Report
+
+A detailed project report (`Project_Report.pdf`) is included in this repository. It covers the project objective, the business questions that guided the analysis, and the analytical approach used to answer them.
 
 ---
 
